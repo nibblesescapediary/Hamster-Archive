@@ -1,16 +1,28 @@
 # 🐹 Nibbles' Hamster Archive
 
-## My Projects
+Just a hamster who occasionally writes terrible code.
+
+## Current Projects
 
 ### 🛞 Wheel Speed Tracker
-Calculates how many miles I've run.
+Calculates how far I've run on my exercise wheel.
 
 ### 🌻 Sunflower Seed Calculator
-Tracks my daily seed consumption.
+Tracks my daily sunflower seed consumption.
 
-### 🎮 Burrow Arcade Records
-I used to keep track of arcade scores.
+## Maintenance Notes
 
-Archive location: /burrow-ledger
+Did a little spring cleaning and removed references
+to some old projects.
 
-I should probably clean this up someday.
+### 📁 A Note to My Future Self
+
+Some of my old projects were archived on the
+SWIFT Tech Symposium CTF server:
+
+tsctf.calpolyswift.org
+
+I may have deleted some important references,
+but GitHub has a funny way of remembering things...
+
+— Nibbles 🐾
